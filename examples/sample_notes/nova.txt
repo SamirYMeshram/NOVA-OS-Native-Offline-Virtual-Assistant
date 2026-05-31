@@ -1,0 +1,1 @@
+NOVA Sovereign AI is a local-first AI operating layer. It indexes documents, remembers facts, and plans safe actions.
