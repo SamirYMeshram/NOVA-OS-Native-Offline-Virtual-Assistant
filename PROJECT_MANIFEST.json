@@ -1,0 +1,34 @@
+{
+  "name": "NOVA Sovereign AI Godmode",
+  "version": "0.3.0",
+  "file_count": 202,
+  "python_file_count": 178,
+  "python_source_lines": 3172,
+  "validated": {
+    "compileall": "passed",
+    "pytest": "14 passed",
+    "smoke_test": "passed"
+  },
+  "subsystems": [
+    "core runtime",
+    "security policy",
+    "local AI providers",
+    "SQLite memory",
+    "command router",
+    "planner",
+    "document RAG",
+    "file intelligence",
+    "data profiler",
+    "code generator",
+    "safe automation",
+    "plugin system",
+    "Streamlit dashboard",
+    "FastAPI local API",
+    "voice extension points",
+    "workflows",
+    "reports",
+    "tests"
+  ],
+  "offline_first": true,
+  "paid_api_required": false
+}
